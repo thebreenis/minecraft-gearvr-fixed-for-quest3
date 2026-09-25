@@ -5,7 +5,7 @@ This is a patched version of Minecraft: Gear VR Edition `1.16.40.02`, made to wo
 ## What has been fixed?
 
 - The game boots properly on current HorizonOS instead of immediately crashing.
-- You do not a controller paired via Bluetooth anymore, the Touch controllers will work. There aren't as many buttons, however, so you will want to go into your Settings and rebind the buttons.
+- You do not need a controller paired via Bluetooth anymore, the Touch controllers will work. There aren't as many buttons, however, so you will want to go into your Settings and rebind the buttons.
 - It will also no longer stop you from booting the game if it doesn't detect a controller or your Touch controllers.
 - Microsoft/Xbox sign-in works through a browser window inside the game. No separate Smart Glass or Xbox app required.
 - Signed-in account persists across closing and opening of the app.
