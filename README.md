@@ -16,11 +16,11 @@ This is a patched version of Minecraft: Gear VR Edition `1.16.40.02`, made to wo
 - LAN multiplayer works when both devices are running Minecraft `1.16.40.02` on the same network.
 - Gear VR can not join a LAN game via the Online Friends tab. When a friend is hosting on the same LAN subnet and pops up in your Online Friends list, their world will be added automatically to the bottom of the Servers tab. The saved entry is only refreshed if their address changes.
 - I tested this with a Quest 3 and the Windows version of 1.16.40.02 playing together. I don't have two Quest headsets to test it with. If you test it, let me know if it works!
-- Gear VR can also host a LAN world, which appears normally on the matching Windows version during my testing.
+- Gear VR can also host a LAN world, which appeared normally on the matching Windows version during my testing.
 
 ## Installing it
 
-Install the latest version if the Releases section through SideQuest or ADB like any other sideloaded APK. Because it has been modified, it uses a different signature from the original game. If Android reports a signature conflict, uninstall the old copy first and then install this one.
+Install the latest version from the Releases section through SideQuest or ADB like any other sideloaded APK. Because it has been modified, it uses a different signature from the original game. If Android reports a signature conflict, uninstall the old copy first and then install this one.
 
 Uninstalling or clearing the app will erase its settings, downloaded content, locally stored worlds, and saved sign-in. Back up anything important first.
 
