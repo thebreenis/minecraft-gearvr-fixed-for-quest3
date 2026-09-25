@@ -11,7 +11,7 @@ This is a patched version of Minecraft: Gear VR Edition `1.16.40.02`, made to wo
 - Signed-in account persists across closing and opening of the app.
 - Due to the way the patch was written, 'Steve' would always appear over your avatar. This was patched to show your GamerTag as normal.
 - The Marketplace loads, shows the correct Minecoin balance, and allows downloads. I did not attempt to spend Minecoins on anything or buy new Minecoins. If you test it, let me know if it works!
-- Xbox achievements work and sync to your profile.
+- Xbox achievements work and sync to your profile. Achievements in this version have always been finnicky. May require doing the achievement trigger multiple times. Can take anywhere from 30 seconds to a minute to pop. The achievement toast will not happen in-game, you'll want to check the Xbox app on your phone or on your computer for the notification.
 - Friends and their online status appear correctly.
 - LAN multiplayer works when both devices are running Minecraft `1.16.40.02` on the same network.
 - Gear VR can not join a LAN game via the Online Friends tab. When a friend is hosting on the same LAN subnet and pops up in your Online Friends list, their world will be added automatically to the bottom of the Servers tab. The saved entry is only refreshed if their address changes.
