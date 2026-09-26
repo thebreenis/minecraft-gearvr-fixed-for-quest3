@@ -1,3 +1,6 @@
+Built for HorizonOS 2.7
+(Specifically, I'm on Build 5243367.4880.520)
+
 # Minecraft: Gear VR Edition — Quest 3 Compatibility Patch
 
 This is a patched version of Minecraft: Gear VR Edition `1.16.40.02`, made to work again on the Meta Quest 3 after a HorizonOS update caused the original game to crash immediately after opening.
